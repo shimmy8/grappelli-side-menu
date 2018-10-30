@@ -1,7 +1,6 @@
 from django import template
 from django.utils.text import capfirst
-from django.urls import NoReverseMatch
-from django.core.urlresolvers import reverse
+from django.urls import NoReverseMatch, reverse
 from django.utils import six
 from django.contrib import admin
 
