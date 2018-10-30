@@ -1,5 +1,5 @@
 =============================
-grappelli-side-menu
+grappelli-side-menu (Django 2.x)
 =============================
 
 .. image:: https://badge.fury.io/py/grappelli-side-menu.png
